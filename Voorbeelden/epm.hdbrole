@@ -1,0 +1,12 @@
+{
+	"role":{
+		"name": "PocDemoHH.PoCdemoHH.roles::epm_ina",
+		"schema_privileges": [{
+		   "privileges": ["SELECT METADATA", 
+		    			  "SELECT",
+		    			  "INSERT",
+		    			  "DELETE"
+		   ]
+		}]
+      }
+}
